@@ -9,7 +9,7 @@
 
 source:         ./_app
 destination:    ./_site
-timezone:       Asia/Hong_Kong
+timezone:       America/New_York
 permalink:      /:title.html
 markdown:       redcarpet
 highlighter:    pygments
@@ -81,10 +81,8 @@ profile:
   user:         Alexander Vega
   email:        alex@yoolip.com
   twitter:      chowraid
-    creator:    tunghsiao
-    site:       sparanoid
-  google_plus:  tunghsiaoliu
-  donate:       https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;hosted_button_id=LTXZ835Y6T95S
+  creator:      chowraid
+  site:         chowraid
 
 # Enable this settings to make your feed Daring Fireball-like link blog
 # (This basically change your <link> value to external link you defined in your posts)
@@ -105,7 +103,7 @@ colorful_list:  false
 
 # Show generator credits
 # Default:      true
-credits:        true
+credits:        false
 
 #
 # Custom distribution variables
