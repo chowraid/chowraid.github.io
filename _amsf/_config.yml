@@ -44,7 +44,7 @@ redcarpet:
 #
 
 # Site name
-name:           Almace Scaffolding
+name:           Chowraid
 
 # Site description, will appear in the document meta and Atom feed subtitle
 description:    I make things that don’t suck.
@@ -62,7 +62,7 @@ assets:         /assets
 feed:           /feed
 
 # Used in atom feed, sitemap, Twitter Cards, and etc. I should use absolute full URLs for these fields
-url:            http://amsf.github.io
+url:            http://chowraid.github.io
 
 # Media assets URL used in posts, without trailing slash. ie. `<img href="{{ site.file }}/image.png">`. In the most cases this URL should be powered by a CDN provider
 file:           http://rsrc.sparanoid.com
@@ -78,9 +78,9 @@ download:       http://dl.sparanoid.com
 # {{ site.profile.google_plus }}: used in footer, this link is display: noned, only to pass Google+ authorship check
 # {{ site.profile.donate }}: a donate link used in posts like `<a href="{{ site.profile.donate }}">Donate me</a>`
 profile:
-  user:         Tunghsiao Liu
-  email:        t@sparanoid.com
-  twitter:
+  user:         Alexander Vega
+  email:        alex@yoolip.com
+  twitter:      chowraid
     creator:    tunghsiao
     site:       sparanoid
   google_plus:  tunghsiaoliu
