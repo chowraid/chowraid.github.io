@@ -16,10 +16,19 @@ a {
     }
 }
 
+h1, h2, h3, h4, h5, h6 {
+  font-weight: 400;
+  background-color: $dorian;
+}
+
 p {
     font-size: 20px;
     line-height: 32px;
     font-weight: 300;
+}
+
+p > a:hover {
+  text-decoration: line-through;
 }
 
 img {
