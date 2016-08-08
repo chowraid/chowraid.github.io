@@ -3,12 +3,17 @@
 sitemap:
   exclude: 'yes'
 ---
+@import 'https://fonts.googleapis.com/css?family=Inconsolata|Montserrat';
 @charset "utf-8";
 
 /* =Colors */
-$dorian: #212121;
-$iron: #E0E0E0;
-$cloudy: #90A4AE;
+$dorian: #000;
+$iron: #FFF;
+$cloudy: #757575;
+
+/* =Fonts */
+$title-font: 'Montserrat', sans-serif;
+$body-font: 'Inconsolata', monospace;
 
 @import
     "mixins",

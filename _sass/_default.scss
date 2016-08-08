@@ -1,7 +1,7 @@
-@import url(https://fonts.googleapis.com/css?family=Roboto+Slab:400,100,300,700);
+
 /* =Base */
 body {
-    font-family: 'Roboto Slab', serif;
+    font-family: $body-font;
     color: $iron;
     background-color: $dorian;
 }
@@ -17,14 +17,22 @@ a {
 }
 
 h1, h2, h3, h4, h5, h6 {
+  font-family: $title-font;
+  letter-spacing: 1.5px;
   font-weight: 400;
   background-color: $dorian;
 }
 
 p {
+    letter-spacing: 1px;
     font-size: 20px;
     line-height: 32px;
     font-weight: 300;
+}
+
+li {
+  letter-spacing: .8px;
+  font-size: 18px;
 }
 
 p > a:hover {

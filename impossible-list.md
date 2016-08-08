@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 我不可能名单
+title: MY IMPOSSIBLE LIST
 subtitle: My list of impossible things to accomplish.
 permalink: /impossible-list/
 ---
