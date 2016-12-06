@@ -31,7 +31,7 @@ I will be updating this list when I find something I want to do. **This is not a
   - ~~English~~
   - ~~Spanish~~
   - Portuguese (%10)
-  - Japanese (%40)
+  - Japanese (%50)
   - Mandarin (%15)
 * Become a good [music producer.](https://soundcloud.com/chowraid)
 * Get my [OSWE certification.](https://www.offensive-security.com/information-security-certifications/oswe-offensive-security-web-expert/)
