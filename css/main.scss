@@ -3,17 +3,17 @@
 sitemap:
   exclude: 'yes'
 ---
-@import 'https://fonts.googleapis.com/css?family=Inconsolata|Montserrat';
+@import 'https://fonts.googleapis.com/css?family=Roboto+Mono:300,400,500|Roboto:300,400,500';
 @charset "utf-8";
 
 /* =Colors */
-$dorian: #000;
-$iron: #FFF;
-$cloudy: #757575;
+$dorian: #FAFAFA;
+$iron: #111;
+$cloudy: #40C4FF;
 
 /* =Fonts */
-$title-font: 'Montserrat', sans-serif;
-$body-font: 'Inconsolata', monospace;
+$title-font: 'Roboto Mono', monospace;
+$body-font: 'Roboto', sans-serif;
 
 @import
     "mixins",

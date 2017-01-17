@@ -1,7 +1,7 @@
 # Site settings
-title: CHOWRAID
+title: Alexander Vega
 description: >
-  Making the world a better place one line of code at a time.
+  Making the world a better place one line of code at a time, and a drawing here and there.
 
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "https://chowraid.com" # the base hostname & protocol for your site
@@ -10,6 +10,8 @@ author:
   fullname: Alexander Vega
   github: chowraid
   twitter: chowraid
+  instagram: chowraid
+  keybase: chowraid
   # disqus: your_disqus_forum_shortname
 
 google_analytics: 'UA-81199663-1'
