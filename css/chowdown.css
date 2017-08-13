@@ -1,0 +1,49 @@
+html, body {
+  background-color: rgba(251, 249, 247, 1);
+  overflow-x: hidden;
+  position: relative;
+}
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Playfair Display', serif;
+  font-weight: 700;
+  color: rgba(55, 53, 51, 1);
+}
+p {
+  font-family: 'Roboto Slab', serif;
+  font-weight: 100;
+  color: rgba(55, 53, 51, 1);
+}
+span {
+  font-weight: 300;
+}
+.bg-light {
+  color: #FFF;
+}
+.jumbotron {
+  background-color: rgba(251, 249, 247, 1);
+  overflow-x: hidden;
+  position: relative;
+  padding-top: 11rem;
+  padding-left: 15rem;
+  padding-right: 15rem;
+  padding-bottom: 11rem;
+}
+.head-hello {
+  font-size: 7.8rem;
+}
+.intro {
+  font-size: 3rem;
+  line-height: 4rem;
+}
+.purple {
+  color: rgba(154, 103, 167, 1);
+}
+.green {
+  color: rgba(114, 189, 107, 1);
+}
+.blue {
+  color: rgba(74, 144, 226, 1);
+}
+.orange {
+  color: rgba(255, 118, 0, 1);
+}
