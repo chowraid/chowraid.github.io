@@ -48,8 +48,8 @@
     },
     {
       "component": "header",
-      "heading": "chowraid.github.io",
-      "subhead": null,
+      "heading": "CHOWRAID",
+      "subhead": "Alexander Vega ",
       "children": [
         {
           "component": "ui/TweetButton",
@@ -61,20 +61,14 @@
           "user": "chowraid",
           "repo": "chowraid.github.io"
         }
-      ]
+      ],
+      "slug": "Based in NYC",
+      "text": "",
+      "image": ""
     },
     {
       "component": "footer",
-      "links": [
-        {
-          "href": "https://github.com/chowraid/chowraid.github.io",
-          "text": "GitHub"
-        },
-        {
-          "href": "https://github.com/chowraid",
-          "text": "chowraid"
-        }
-      ]
+      "links": []
     }
   ]
 }
